@@ -41,9 +41,4 @@ const myIterable = {
             return {done: true};
         }
     }
-
-}
-
-for (let item of myIterable) {
-    console.log(item)
 }
